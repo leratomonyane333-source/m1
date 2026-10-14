@@ -1,7 +1,7 @@
 # LIMO ISA Specification
 **Team:** 3 Ninjas Kids  
 **Milestone:** M1  
-**Date:** October 2026
+**Date:** 14 October 2026
 
 ---
 
